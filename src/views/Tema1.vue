@@ -145,7 +145,7 @@
                   img(src='@/assets/curso/temas/tema1/linea1/imagen12a.png', alt='')
                 .col-8.col-md-6.col-lg-6
                   img.mb-2.w-150x(src='@/assets/curso/temas/tema1/linea1/icono12a.png', alt='')
-                  p.mb-0 Silueta imperio, vestidos delgados y vaporosos, vuelos y encajes en forma de cascada, vestido línea princesa, hombreras. cuello solapa.
+                  p.mb-0 Silueta imperio, vestidos delgados y vaporosos, vuelos y encajes en forma de cascada, vestido línea princesa, hombreras. Cuello solapa.
             .col-sm-12.col-md-611.col-lg-4
               .row
                 .col-4.col-md-4.col-lg-6.mb-3
@@ -305,19 +305,19 @@
           ul.lista-ul--color.vamarillo.fa-ul.mb-0
             li.mb-0
               i.lista-ul__vineta
-              span.mb-2 #[b Gama de mercado: ] Conjunto de productos de un segmento de mercado que una empresa ofrece a sus consumidores.
+              span.mb-2 #[b Gama de mercado: ] conjunto de productos de un segmento de mercado que una empresa ofrece a sus consumidores.
             li.mb-0
               i.lista-ul__vineta
-              span.mb-0 #[b Gama: ] Cualquier serie de cosas que varían gradualmente.
+              span.mb-0 #[b Gama: ] cualquier serie de cosas que varían gradualmente.
             li.mb-0
               i.lista-ul__vineta
-              span.mb-0 #[b Mercado: ] Espacio físico o virtual en el que tienen lugar transacciones económicas.
+              span.mb-0 #[b Mercado: ] espacio físico o virtual en el que tienen lugar transacciones económicas.
             li.mb-0
               i.lista-ul__vineta
-              span.mb-0 #[b Consumidor: ] Es un agente económico con una serie de necesidades.
+              span.mb-0 #[b Consumidor: ] es un agente económico con una serie de necesidades.
             li.mb-0
               i.lista-ul__vineta
-              span.mb-0 #[b Segmento: ] Es una parte o algo que junto con otras se encuentra formando un todo.
+              span.mb-0 #[b Segmento: ] es una parte o algo que junto con otras se encuentra formando un todo.
         .col-10.col-md-5.col-lg-3
           img(src='@/assets/curso/temas/tema1/imagen3.png', alt='')
  
@@ -416,7 +416,7 @@
       .row.justify-content-center(titulo="Protocolario - Gala")
         .col-md-5.mb-4.mb-md-0
           p Ligados a tradiciónes culturales y monárquicas, para eventos y celebraciones protocolarias en los altos rangos sociales.
-          ul.lista-ul--color.vmorada.fa-ul.mb-0
+          ul.lista-ul--color.vamarillo.fa-ul.mb-0
             li.mb-0 
               i.lista-ul__vineta.mb-0
               span.mb-0 Jerárquico.
@@ -608,22 +608,13 @@
       .col-lg-8
         .cajon.color-acento-contenido.p-4
           p.mb-0 Todas las marcas tienen una categorización de producto; la cual en gran parte se basa por las ocasiones de uso y los universos de vestuario, esto permite tener una mejor segmentación dependiendo de las necesidades del consumidor.
-            
-    .row.justify-content-center(data-aos="fade")
-      .col-lg-10
-        .tarjeta.p-3.color-primario
-          .row.justify-content-center.align-items-center
-            .col-auto
-              img(src="@/assets/curso/temas/tema1/imagen5.png")
-            .col
-              .row.justify-content-center.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4 Universos de vestuario - Gamas de mercado
-                  p.mb-0 Revisa el contenido del video que puede resultar útil para complementar el aprendizaje acerca de los universos de vestuario.
-                .col-sm-auto
-                  a.boton.color-boton(href="https://youtu.be/VsTacEciP3k" target="_blank")
-                    span.texto-negro Ir al sitio
-                    i.fas.fa-file-download
+
+    p Revisa el contenido del video que puede resultar útil para complementar el aprendizaje acerca de los universos de vestuario.
+
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/VsTacEciP3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Gamas de mercado - Universos de vestuarios - Ocasiones de uso
 
 
     Separador
@@ -655,7 +646,7 @@
             h4 Tradicional
             p Es un consumidor que participa en un ambiente social exigente en el que busca reconocimiento, aceptación y afirmación de los demás; invierte mucho dinero, tiempo y energía en sobresalir y destacarse.
             p.mb-3 #[b Características: ]
-            ul.ul.lista-ul--color.vmorada.fa-ul
+            ul.lista-ul--color.vamarillo.fa-ul.mb-0
               li.mb-0
                 i.lista-ul__vineta
                 span.mb-0 Las tradiciones permanecen.
@@ -716,7 +707,7 @@
             h4 Contemporáneo
             p Surge de los cambios sociales, económicos y tecnológicos de las últimas décadas, dando origen a un nuevo modelo de comportamiento, donde se encuentran un perfil original y auténtico que está en permanente evolución. Es multicultural, dinámico y explorador constante de su propio desarrollo personal, emocional y profesional.
             p.mb-3 #[b Características: ]
-            ul.ul.lista-ul--color.vmorada.fa-ul
+            ul.ul.lista-ul--color.vamarillo.fa-ul.mb-0
               li.mb-0 
                 i.lista-ul__vineta.mb-0
                 span.mb-0 Evoluciona y modifica sus valoraciones.
@@ -777,7 +768,7 @@
             h4 Exhibicionista
             p Resulta de un deseo personal por destacarse, llamar la atención y proyectarse como “distinto” a los demás. El estilo es lo de menos, la imagen es todo.
             p.mb-3 #[b Características: ]
-            ul.ul.lista-ul--color.vmorada.fa-ul
+            ul.ul.lista-ul--color.vamarillo.fa-ul.mb-0
               li.mb-0 
                 i.lista-ul__vineta.mb-0
                 span.mb-0 Quiere llamar permanentemente la atención y ser distinto de los demás.
@@ -867,7 +858,7 @@
               h4 Estilo Minimalista
               p El concepto nació en los años sesenta, con la idea de “menos es más”, del arquitecto Mies Van Der Rohe, quien propuso un estilo de vida que rescata la importancia de la persona, frente a una sociedad consumista. A grandes rasgos, trata no sólo de usar poco, sino de encontrar el equilibrio entre reducir y exagerar en la decoración, los detalles y las siluetas.
               p.mb-2 #[b Características: ]
-              ul.lista-ul--color.vmorada.fa-ul
+              ul.lista-ul--color.vamarillo.fa-ul.mb-0
                 li.mb-0 
                   i.lista-ul__vineta.mb-0
                   span.mb-0 El estilo minimalista requiere de disciplina, consistencia y gran atención por la calidad.
@@ -978,19 +969,19 @@
           ol.lista-ol--cuadro.fa-ol.mb-0
             li.mb-0 
               .lista-ol--cuadro__vineta(style='color: black')
-                span.mb-0 1
+                span.fw-bold.mb-0 A
               p.mb-0 #[b Ritmo: ] forma en la que sucede y se alternan una serie de dinámicas, conceptos y sentires que componen la tendencia.
             li.mb-0
               .lista-ol--cuadro__vineta(style='color: black')
-                span.mb-0 2
+                span.fw-bold.mb-0 B
               p.mb-0 #[b Información: ] toda la variedad de información que puedan complementar el concepto de la tendencia.
             li.mb-0
               .lista-ol--cuadro__vineta(style='color: black')
-                span.mb-0 3
-              p.mb-0 #[b Diversificación: ] diferentes variables en donde se puede manifestarse la tendencia, sus conceptos, y historias.
+                span.fw-bold.mb-0 C
+              p.mb-0 #[b Diversificación: ] diferentes variables en donde se puede manifestarse la tendencia, sus conceptos e historias.
             li.mb-0 
               .lista-ol--cuadro__vineta(style='color: black')
-                span.mb-0 4
+                span.fw-bold.mb-0 D
               p.mb-0 #[b Tecnología: ] medios por los cuales se revela la información y su implementación.
     
 
@@ -1025,7 +1016,7 @@
         h3.mb-0.ms-2 ¿Quiénes estudian las tendencias?
 
     .row.justify-content-center.mb-5
-      .col-xl-4.col-lg-4.col-md-6.col-11.mb-4
+      .col-xl-4.col-lg-5.col-md-6.col-11.mb-4
         .crd_hover_txt(data-aos="fade-left")
           .crd_hover_txt--img
             img(src="@/assets/curso/temas/tema1/tarjeta9/imagen1.png")
@@ -1035,7 +1026,7 @@
                   i.fas.fa-caret-up.texamarillooscuro
                   span.h4.mb-0 #[b INEXMODA]
                     p.mb-0 https://www.inexmoda.org.co/
-      .col-xl-4.col-lg-4.col-md-6.col-11.mb-4
+      .col-xl-4.col-lg-5.col-md-6.col-11.mb-4
         .crd_hover_txt(data-aos="fade-left")
           .crd_hover_txt--img
             img(src="@/assets/curso/temas/tema1/tarjeta9/imagen2.png")
@@ -1045,7 +1036,7 @@
                   i.fas.fa-caret-up.texamarillooscuro
                   span.h4.mb-0 #[b PREMIÉRE VISION PARIS ]
                     p.mb-0 https://www.premierevision.com/en/
-      .col-xl-4.col-lg-4.col-md-6.col-11.mb-4
+      .col-xl-4.col-lg-5.col-md-6.col-11.mb-4
         .crd_hover_txt(data-aos="fade-left")
           .crd_hover_txt--img
             img(src="@/assets/curso/temas/tema1/tarjeta9/imagen3.png")
@@ -1055,7 +1046,7 @@
                   i.fas.fa-caret-up.texamarillooscuro
                   span.h4.mb-0 #[b FASHION TRENDSETTER ]
                     p.mb-0 https://www.fashiontrendsetter.com/v2/
-      .col-xl-4.col-lg-4.col-md-6.col-11.mb-4
+      .col-xl-4.col-lg-5.col-md-6.col-11.mb-4
         .crd_hover_txt(data-aos="fade-left")
           .crd_hover_txt--img
             img(src="@/assets/curso/temas/tema1/tarjeta9/imagen4.png", alt="alt")
@@ -1065,7 +1056,7 @@
                   i.fas.fa-caret-up.texamarillooscuro
                   span.h4.mb-0 #[b FASHION SNOOP ]
                     p.mb-0 https://www.fashionsnoops.com/
-      .col-xl-4.col-lg-4.col-md-6.col-11.mb-4
+      .col-xl-4.col-lg-5.col-md-6.col-11.mb-4
         .crd_hover_txt(data-aos="fade-left")
           .crd_hover_txt--img
             img(src="@/assets/curso/temas/tema1/tarjeta9/imagen5.png", alt="alt")
@@ -1075,7 +1066,7 @@
                   i.fas.fa-caret-up.texamarillooscuro
                   span.h4.mb-0 #[b WGSN ]
                     p.mb-0 https://www.wgsn.com/es/wgsn/
-      .col-xl-4.col-lg-4.col-md-6.col-11.mb-4
+      .col-xl-4.col-lg-5.col-md-6.col-11.mb-4
         .crd_hover_txt(data-aos="fade-left")
           .crd_hover_txt--img
             img(src="@/assets/curso/temas/tema1/tarjeta9/imagen6.png", alt="alt")
@@ -1152,7 +1143,7 @@
           .tarjeta-numerada__numero.t1
             img(src="@/assets/curso/temas/tema1/tarjeta10/icono3.png", alt="")
           h4.text-center Diagramación
-          p.text-center.mb-0 Empiece con la diagramación en su moodboard, puede hacerlo lineal o abstracto. Herramientas: Canva - PowerPoint.
+          p.text-center.mb-0 Empiece con la diagramación en su #[em moodboard], puede hacerlo lineal o abstracto. Herramientas: Canva - PowerPoint.
 
     .subt.mb-5(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -1163,14 +1154,12 @@
 
     TabsA.color-acento-botones.mb-5(data-aos="fade")
       .tarjeta.p-4.bg2(titulo="¿Para qué sirve?")
-        h4 ¿Para qué sirve?
         .row.align-items-center
           .col-lg-9
             p Esta metodología permite lograr variedad de diseños rápidamente, facilita la realización de evoluciones y modificaciones de diseño en una colección sin que se pierda la coherencia conceptual.
           .col-lg-2.d-none.d-lg-block.mb-0
             img(src='@/assets/curso/temas/tema1/tarjeta8/imagen1.png')
       .tarjeta.p-4.bg2(titulo="¿Cómo iniciar?")
-        h4 ¿Cómo iniciar?
         .row.align-items-center
           .col-lg-9
             p #[b Tipologías: ] elegir las tipologías a trabajar.
@@ -1178,8 +1167,7 @@
             p #[b Visualizar ] partes de las prendas por separado: cuellos, bolsillos, mangas, escotes, sistema de cierre, sistema de ajuste.
           .col-lg-2.d-none.d-lg-block.mb-0
             img(src='@/assets/curso/temas/tema1/tarjeta8/imagen2.png')
-      .tarjeta.p-4.bg2(titulo="¿Cómo se realiza?")
-        h4 ¿Cómo se realiza?
+      .tarjeta.p-4.bg2(titulo="¿Cómo se realiza?")    
         .row.align-items-center
           .col-lg-9
             p Se organizan las ideas utilizando un esquema tipo tabla; para generar varias opciones de cada una de esas partes (estas siempre deben comunicar el concepto de la marca).
@@ -1194,21 +1182,12 @@
           p #[b La clave es: ] cada variación debe ser coherente con el concepto, las siluetas, formas, sensibilidad y demás percepciones definidas en los conceptos.
           p.mb-0 #[b Estaciones: ] las tendencias se basan en las estaciones de primavera (#[em Spring]), verano (#[em Summer]), otoño (#[em Autumn]) e invierno (#[em Winter]). 
 
-    .row.justify-content-center(data-aos="fade")
-      .col-lg-10
-        .tarjeta.color-primario.p-3
-          .row.justify-content-center.align-items-center
-            .col-auto
-              img(src="@/assets/curso/temas/tema1/imagen13.png")
-            .col
-              .row.justify-content-center.align-items-center
-                .col
-                  h4.mb-2 #[em Moodboard ] Tableros Creativos y Cuadro Metamórfico
-                  p.mb-0 Revisa el documento que pueden resultar útil  para aprender más sobre la creación de un moodboard y un cuadro metamórfico.
-                .col-sm-auto
-                  a.boton.color-boton(href="https://youtu.be/QhPE0_P4R3M" target="_blank")
-                    span.texto-negro Ir al sitio
-                    i.fas.fa-file-download
+    p Revisa el documento que pueden resultar útil  para aprender más sobre la creación de un moodboard y un cuadro metamórfico.
+
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/QhPE0_P4R3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. #[em MOODBOARD] Y CUADRO METAMÓRFICO
 
 
 

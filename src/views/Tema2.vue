@@ -42,7 +42,7 @@
         .row.justify-content-center.align-items-center
           .row.justify-content-center.align-items-center   
             .col-lg-10
-              .titulo-sexto.color-secundario
+              .titulo-sexto.color-secundario.mb-3
                 h5 Figura 1.
                 span Tipos de línea.
               figure
@@ -61,21 +61,18 @@
           .col-7.col-md-4.col-lg-4.mb-3.mb-md-0
             img.mb-4(src='@/assets/curso/temas/tema2/tarjeta2/imagen1.png')
           .col-11.col-md-7.col-lg-7
-            h4 Figurín
             p Representar gráficamente el cuerpo y las prendas, con una expresión viva, un trazo fresco, un movimiento dinámico, una pose elegante y una expresión adecuada al tipo de vestimenta propuesto.
       .bg2.py-4(titulo="Ilustración")
         .row.justify-content-center
           .col-7.col-md-4.col-lg-4.mb-3.mb-md-0
             img.mb-4(src='@/assets/curso/temas/tema2/tarjeta2/imagen2.png')
           .col-11.col-md-7.col-lg-7
-            h4 Ilustración
             p Son dibujos, esquemas, bosquejos, bocetos o pinturas que se hacen relacionados a la moda, pueden ser de modelos, ropa o accesorios, prácticamente cualquier objeto o situación relacionada a la industria.
       .bg2.py-4(titulo="Dibujo Plano")
         .row.justify-content-center
           .col-7.col-md-4.col-lg-4.mb-3.mb-md-0
             img.mb-4(src='@/assets/curso/temas/tema2/tarjeta2/imagen3.png')
           .col-11.col-md-7.col-lg-7
-            h4 Dibujo Plano
             p Representación detallada de una prenda, es decir, se deben identificar todas las características técnicas de la prenda, pespuntes, botones, costuras, pinzas, acabados. No tiene movimiento y se debe identificar delantero y posterior.
 
     .subt.mb-4(data-aos="fade-right")
