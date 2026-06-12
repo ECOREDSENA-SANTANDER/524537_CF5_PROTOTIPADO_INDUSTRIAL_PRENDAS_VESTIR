@@ -1090,7 +1090,7 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/cjhRls-yhvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Tendencias.
+        figcaption Video. Tendencias
     
 
     Separador
@@ -1182,12 +1182,12 @@
           p #[b La clave es: ] cada variación debe ser coherente con el concepto, las siluetas, formas, sensibilidad y demás percepciones definidas en los conceptos.
           p.mb-0 #[b Estaciones: ] las tendencias se basan en las estaciones de primavera (#[em Spring]), verano (#[em Summer]), otoño (#[em Autumn]) e invierno (#[em Winter]). 
 
-    p Revisa el documento que pueden resultar útil  para aprender más sobre la creación de un moodboard y un cuadro metamórfico.
+    p Revisa el documento que pueden resultar útil  para aprender más sobre la creación de un #[em moodboard] y  cuadro metamórfico.
 
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/QhPE0_P4R3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. #[em MOODBOARD] Y CUADRO METAMÓRFICO
+      figcaption Video. #[em Moodboard] y cuadro metamórfico
 
 
 

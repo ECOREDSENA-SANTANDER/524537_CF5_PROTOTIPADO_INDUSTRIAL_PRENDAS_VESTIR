@@ -57,20 +57,20 @@
 
     TabsC.color-acento-botones.mb-5
       .bg2.py-4(titulo="Figurín")
-        .row.justify-content-center
-          .col-7.col-md-4.col-lg-4.mb-3.mb-md-0
+        .row.justify-content-center.align-items-center
+          .col-7.col-md-4.col-lg-3.mb-3.mb-md-0
             img.mb-4(src='@/assets/curso/temas/tema2/tarjeta2/imagen1.png')
           .col-11.col-md-7.col-lg-7
             p Representar gráficamente el cuerpo y las prendas, con una expresión viva, un trazo fresco, un movimiento dinámico, una pose elegante y una expresión adecuada al tipo de vestimenta propuesto.
       .bg2.py-4(titulo="Ilustración")
-        .row.justify-content-center
-          .col-7.col-md-4.col-lg-4.mb-3.mb-md-0
+        .row.justify-content-center.align-items-center
+          .col-7.col-md-4.col-lg-3.mb-3.mb-md-0
             img.mb-4(src='@/assets/curso/temas/tema2/tarjeta2/imagen2.png')
           .col-11.col-md-7.col-lg-7
             p Son dibujos, esquemas, bosquejos, bocetos o pinturas que se hacen relacionados a la moda, pueden ser de modelos, ropa o accesorios, prácticamente cualquier objeto o situación relacionada a la industria.
       .bg2.py-4(titulo="Dibujo Plano")
-        .row.justify-content-center
-          .col-7.col-md-4.col-lg-4.mb-3.mb-md-0
+        .row.justify-content-center.align-items-center
+          .col-7.col-md-4.col-lg-3.mb-3.mb-md-0
             img.mb-4(src='@/assets/curso/temas/tema2/tarjeta2/imagen3.png')
           .col-11.col-md-7.col-lg-7
             p Representación detallada de una prenda, es decir, se deben identificar todas las características técnicas de la prenda, pespuntes, botones, costuras, pinzas, acabados. No tiene movimiento y se debe identificar delantero y posterior.
@@ -154,42 +154,30 @@
 
     .row.justify-content-center.mb-5(data-aos="fade")  
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-contenido.h-100.p-5
+        .tarjeta-numerada.color-acento-contenido.h-100.p-4.px-5
           .tarjeta-numerada__numero
             .h2 1
-          p.text-center 
-            h3.text-center Pinzas
+          h4.text-center Pinzas
           p.text-center.mb-0 Pinza sencilla, doble pinza, pinza por sisa corte diagonal, pinza por escote.
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-primario.h-100.p-5
+        .tarjeta-numerada.color-primario.h-100.p-4.px-5
           .tarjeta-numerada__numero
             .h2 2
-          p.text-center 
-            h3.text-center Cortes
+          h4.text-center Cortes
           p.text-center.mb-0 Princesas, francés, corte horizontal y vertical, canesú con corte vertical.
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-contenido.h-100.p-5
+        .tarjeta-numerada.color-acento-contenido.h-100.p-4.px-5
           .tarjeta-numerada__numero
             .h2 3
-          p.text-center 
-            h3.text-center Talles
+          h4.text-center Talles
           p.text-center.mb-0 Talle alto, talle medio, talle bajo. Cuellos - puños - bolsillos de parche - bolsillos de ribete - pantalón - largos - bolsillos - talles – detalles.
 
-    .row.justify-content-center(data-aos="fade")
-      .col-lg-10
-        .tarjeta.color-primario.p-3
-          .row.justify-content-center.align-items-center
-            .col-auto
-              img(src="@/assets/curso/temas/tema2/imagen12.png")
-            .col
-              .row.justify-content-center.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Categoría de prendas - Tipologías - Bitácora de formas
-                  p.mb-0 Revisa el contenido del video que puede resultar útil para complementar el aprendizaje acerca de la categorización de prendas.
-                .col-sm-auto
-                  a.boton.color-boton(href="https://youtu.be/leHGYnfUxGk" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-file-download
+    p Revisa el contenido del video que puede resultar útil para complementar el aprendizaje acerca de la categorización de prendas
+
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/leHGYnfUxGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Categoría de prendas - Tipologías - Bitácora de formas
 
 
     Separador
@@ -198,11 +186,10 @@
     
     p.mb-4 En el siguiendo video, se presenta la realización del proceso de una manera clara y didáctica:
 
-    .row
-      figure
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/9dFHVp0cC2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Nota. Adaptado de  Técnica de achurados y acabados.
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/9dFHVp0cC2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Adaptado de  Técnica de achurados y acabados.
 
  
     Separador
@@ -211,11 +198,10 @@
     
     p.mb-4 En el siguiente video explicativo se detalla la manera de realizar el proceso:
 
-    .row
-      figure
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/0ZN7-E4Pyt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Nota. Adaptado de Dibujo de bitácora de formas.
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/0ZN7-E4Pyt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Adaptado de Dibujo de bitácora de formas
 
 
     Separador
@@ -224,49 +210,39 @@
     
     p.mb-4 En el video que se presenta a continuación, se detallan los conceptos más importantes para tener en cuenta en la realización de dibujos bidimensionales de prendas de vestir: 
 
-    .row.mb-4
-      figure
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/KxWtHCwnG3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Nota. Adaptado de Dibujo plano de prendas.
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/KxWtHCwnG3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Adaptado de Dibujo plano de prendas
 
-    .row.justify-content-center(data-aos="fade")
-      .col-lg-10
-        .tarjeta.p-3.color-primario
-          .row.justify-content-center.align-items-center
-            .col-auto
-              img(src="@/assets/curso/temas/tema1/dibujo-de-vestido.png")
-            .col
-              .row.justify-content-center.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Dibujo plano para prendas
-                  p.mb-0 Revisa los videos que pueden resultar útiles para aprender más sobre la creación de dibujos planos para prendas.
-                .col-sm-auto.mb-3.mb-md-0
-                  a.boton.color-boton(href="https://youtu.be/rvq5vAoMdv4" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-file-download
-                .col-sm-auto
-                  a.boton.color-boton(href="https://youtu.be/ZpVolJldlcU" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-file-download
+    p.mb-4 Revisa los videos que te pueden resultar útiles para aprender más sobre la creación de dibujos planos para prendas.
+
+    figure.mb-4
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/rvq5vAoMdv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Interpretación prenda enteriza
+
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ZpVolJldlcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Interpretación prenda inferior    
 
 
     Separador
     #t_2_6.titulo-segundo.color-acento-contenido
       h2 2.6 Análisis de proporciones prendas superiores e inferiores
     
-    p.mb-4 A continuación, se presentan dos videos con explicación de los procesos :
+    p.mb-4 A continuación, se presentan dos videos con explicación de los procesos:
 
-    .row.mb-5
-      figure
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/6zVIePvn5Tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Nota. Adaptado de Análisis de proporciones prendas superiores.
-    .row
-      figure
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/CYQpTKL7-AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Nota. Adaptado de Análisis de proporciones prendas inferiores. 
+    figure.mb-4
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/6zVIePvn5Tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Adaptado de Análisis de proporciones prendas superiores
+
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/CYQpTKL7-AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Adaptado de Análisis de proporciones prendas inferiores
 
 
     Separador
@@ -274,22 +250,6 @@
       h2 2.7 Interfaz programa CAD
       
     p Para el desarrollo de dibujos planos, se implementa #[em software] que permite agilizar y detallar de manera más certera un producto. Para el uso de los programas se hace necesario contar con la licencia que autoriza la implementación legal del mismo. El SENA cuenta con las licencias requeridas para el acceso del aprendiz sin ningún inconveniente. 
-
-    .row.justify-content-center(data-aos="fade")
-      .col-lg-10
-        .tarjeta.p-3.color-primario
-          .row.justify-content-center.align-items-center
-            .col-auto
-              img(src="@/assets/curso/temas/tema2/icono-interfaz.png")
-            .col
-              .row.justify-content-center.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Interfaz programa CAD
-                  p.mb-0 Interfaz Software CAD. Consulta el siguiente video para conocer acerca del software.
-                .col-sm-auto
-                  a.boton.color-boton(href="https://www.youtube.com/watch?v=_lIrZfa0q1g" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-file-download
 
 
     Separador
@@ -303,7 +263,7 @@
         img(src='@/assets/curso/temas/tema1/subt.svg', alt='')
         h3.mb-0.ms-2 Ficha técnica - introducción
     
-    p #[b Qué son las fichas técnicas?] Son documentos que contienen la información necesaria para la fabricación de un producto. Dichos documentos serán consultados en los distintos procesos de producción. Los datos para incluir deben ser detallados.
+    p #[b ¿Qué son las fichas técnicas?] Son documentos que contienen la información necesaria para la fabricación de un producto. Dichos documentos serán consultados en los distintos procesos de producción. Los datos para incluir deben ser detallados.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade")  
       .bloque-texto-g__img(
