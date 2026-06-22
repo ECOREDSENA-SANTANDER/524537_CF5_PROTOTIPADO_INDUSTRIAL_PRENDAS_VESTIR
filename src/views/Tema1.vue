@@ -326,8 +326,13 @@
     
     .row.justify-content-center.mb-4
       .col-lg-8
-        p.mb-0 #[b Principales. ]  #[em Haute couture, pret a porter, fast fashion, slow fashion. ]
-        p #[b Transitorias. ]  #[em Vegan fashion, ethical fashion, eco fashion, circle fashion. ]
+        ol.lista-ol.fa-ul
+          li.mb-1
+            span.text-bold A. 
+            span.mb-0 #[b Principales:] #[em Haute couture, pret a porter, fast fashion, slow fashion. ]
+          li 
+            span.text-bold B. 
+            span.mb-0 #[b Transitorias:] #[em Vegan fashion, ethical fashion, eco fashion, circle fashion. ]
 
     SlyderF.mb-5(columnas="col-md-6 col-lg-4")
       .tarjeta.color-primario.p-4

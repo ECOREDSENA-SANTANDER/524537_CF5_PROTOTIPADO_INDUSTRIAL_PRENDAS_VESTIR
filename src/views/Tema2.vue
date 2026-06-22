@@ -46,7 +46,7 @@
                 h5 Figura 1.
                 span Tipos de línea.
               figure
-                img(src='@/assets/curso/temas/tema2/imagen1.svg' alt="La figura describe y ejemplifica 3 tipos: Línea guía: ejes de simetría. Línea sólida: croquis de la prenda. Línea intermitente: pespuntes o costuras.")
+                img(src='@/assets/curso/temas/tema2/imagen1.svg' alt="Representación de líneas guía, sólidas e intermitentes aplicadas en el patronaje para indicar ejes de simetría, contornos de la prenda y costuras.")
 
     .subt.mb-5(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -145,7 +145,7 @@
           h5 Figura 2.
           span División del cuerpo
         figure
-          img(src='@/assets/curso/temas/tema2/imagen4.svg' alt="La figura presenta la imagen de un hombre al cual se le señala la parte superior del cuerpo(de la cintura hacia arriba)- prendas superiores; y la parte inferior del cuerpo (de la cintura hacia abajo)- pantalones, faldas, shorts.")
+          img(src='@/assets/curso/temas/tema2/imagen4.svg' alt="Clasificación de las prendas según su ubicación en el cuerpo: prendas superiores desde la cintura hacia arriba y prendas inferiores desde la cintura hacia abajo.")
    
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -249,8 +249,10 @@
     #t_2_7.titulo-segundo.color-acento-contenido
       h2 2.7 Interfaz programa CAD
       
-    p Para el desarrollo de dibujos planos, se implementa #[em software] que permite agilizar y detallar de manera más certera un producto. Para el uso de los programas se hace necesario contar con la licencia que autoriza la implementación legal del mismo. El SENA cuenta con las licencias requeridas para el acceso del aprendiz sin ningún inconveniente. 
-
+    p La interfaz de un programa CAD (#[em Computer-Aided Design]) constituye el entorno digital en el cual se desarrollan dibujos técnicos planos y representaciones tridimensionales con alto nivel de precisión. Este tipo de software está diseñado para optimizar los procesos de diseño, patronaje y desarrollo de producto, permitiendo la construcción, modificación y validación de piezas de manera más eficiente en comparación con el trabajo manual. 
+    p En el ámbito del diseño de moda y confección, los sistemas CAD facilitan la elaboración de fichas técnicas, patrones base, escalado de tallas y simulación de prendas, garantizando mayor exactitud en las medidas y coherencia en las proporciones. La interfaz generalmente está compuesta por áreas de trabajo como el espacio de dibujo, barras de herramientas, panel de capas, propiedades del objeto y sistemas de coordenadas, los cuales permiten controlar cada elemento del diseño con precisión técnica. 
+    p El uso de estos programas requiere la adquisición de licencias oficiales, las cuales certifican el uso legal del software y garantizan el acceso a todas sus funcionalidades. En el contexto formativo, instituciones como el SENA disponen de licencias autorizadas que permiten a los aprendices utilizar estas herramientas sin restricciones, facilitando el desarrollo de competencias en entornos digitales profesionales. 
+    p En conjunto, la interfaz CAD se convierte en una herramienta fundamental dentro del proceso de diseño industrial y de moda, ya que integra tecnología, exactitud y estandarización en la construcción de productos, mejorando la productividad y la calidad del resultado final. 
 
     Separador
     #t_2_8.titulo-segundo.color-acento-contenido
@@ -284,7 +286,7 @@
                 span
                   span.mb-0 Tipos de ficha técnica
               figure
-                img(src='@/assets/curso/temas/tema2/imagen11.svg' alt=" La figura presenta un diagrama enunciando los siguientes tipos: ficha técnica de diseño, ficha técnica de patronaje, ficha técnica de insumos, ficha técnica de escalado, ficha técnica de corte, ficha técnica de confección, ficha técnica de empaque")
+                img(src='@/assets/curso/temas/tema2/imagen11.svg' alt=" Proceso de desarrollo de producto que integra fichas técnicas de diseño, patronaje, insumos, escalado, corte, confección y empaque.")
 
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1

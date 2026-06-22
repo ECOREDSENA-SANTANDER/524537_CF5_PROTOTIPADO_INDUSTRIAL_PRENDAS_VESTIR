@@ -197,94 +197,113 @@ export default {
   },
   glosario: [
     {
-      termino: 'Bidimensional',
+      termino: 'Achurado',
       significado:
-        'Que se representa según su altura y su anchura y no su profundidad.',
+        'técnica de representación gráfica utilizada en dibujo plano para indicar sombras, texturas, volúmenes o acabados específicos de una prenda.',
     },
     {
-      termino: 'Diseño',
+      termino: 'CAD',
       significado:
-        'Actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        '<em>software</em> de diseño asistido por computador utilizado para desarrollar dibujos planos, patrones y fichas técnicas con mayor precisión y rapidez.',
+    },
+    {
+      termino: 'Consumidor',
+      significado:
+        'persona o grupo objetivo para el cual se diseña una prenda, teniendo en cuenta sus necesidades, gustos, hábitos y estilo de vida.',
+    },
+    {
+      termino: 'Dibujo plano',
+      significado:
+        ' representación técnica y bidimensional de una prenda, utilizada para comunicar detalles de diseño y construcción.',
+    },
+    {
+      termino: 'Ficha técnica',
+      significado:
+        'documento técnico que reúne especificaciones de diseño, materiales, medidas, acabados y procesos necesarios para la elaboración de una prenda.',
+    },
+    {
+      termino: 'Fibra textil',
+      significado:
+        'materia prima básica utilizada para la fabricación de hilos y tejidos, de origen natural o químico.',
+    },
+    {
+      termino: 'Hilo',
+      significado:
+        'conjunto de fibras textiles unidas y torsionadas que permiten la elaboración de tejidos.',
+    },
+    {
+      termino: '<em>Moodboard</em>',
+      significado:
+        'composición visual de imágenes, colores, texturas y conceptos que sirve como guía creativa para el desarrollo de una colección o diseño.',
     },
     {
       termino: 'Moda',
       significado:
-        'Hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'fenómeno cultural y comercial relacionado con las tendencias, estilos y formas de vestir de una sociedad en un tiempo determinado.',
     },
     {
-      termino: '<i>MoodBoard </i>',
+      termino: 'Patronaje',
       significado:
-        'Su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'proceso técnico mediante el cual se desarrollan moldes o patrones para la confección de prendas de vestir.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Perfil del consumidor',
       significado:
-        'Ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'análisis de características demográficas, psicológicas y sociales que permiten identificar el público objetivo de un producto de moda.',
     },
     {
-      termino: '<i>Software</i>',
+      termino: 'Proceso textil',
       significado:
-        'Término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'conjunto de etapas mediante las cuales las fibras se transforman en hilos, tejidos y productos textiles terminados.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Tejido',
       significado:
-        'Estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'estructura formada por el entrelazado de uno o varios hilos para crear una superficie textil.',
     },
     {
-      termino: 'Vectores',
+      termino: 'Tendencia',
       significado:
-        'En <em>software</em> de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'dirección estética o conceptual predominante en moda durante un periodo específico.',
+    },
+    {
+      termino: 'Universo de vestuario',
+      significado:
+        'clasificación de prendas según su funcionalidad, contextode uso y características estéticas dentro del sistema de moda.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Blackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Marín Blackman, C. (2012). 100 años de moda. Sistema de Bibliotecas.',
     },
     {
       referencia:
         'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
     },
     {
       referencia:
         'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En harpersbazaar.mx',
-      link:
-        'https://www.harpersbazaar.mx/cuerpo-mente/la-ropa-que-eliges-afecta-a-tu-estado-de-animo-y-cerebro-segun-expertos',
     },
     {
       referencia:
         'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
     },
     {
       referencia:
         'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000063748',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA.',
     },
     {
       referencia:
         'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
     },
   ],
   creditos: [
