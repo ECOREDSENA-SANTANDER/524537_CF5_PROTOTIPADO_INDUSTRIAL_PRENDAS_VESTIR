@@ -61,7 +61,7 @@ export default {
           },
           {
             numero: '1.5',
-            titulo: '<em> Moodboard</em> - Cuadro metamórfico',
+            titulo: '<em> Moodboard</em>: Cuadro metamórfico',
             hash: 't_1_5',
           },
         ],
