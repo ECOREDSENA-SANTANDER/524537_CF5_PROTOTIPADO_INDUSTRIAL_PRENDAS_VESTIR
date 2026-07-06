@@ -305,6 +305,10 @@ export default {
       referencia:
         'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
     },
+    {
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (s. f.). Canal de YouTube.',
+    },
   ],
   creditos: [
     {
