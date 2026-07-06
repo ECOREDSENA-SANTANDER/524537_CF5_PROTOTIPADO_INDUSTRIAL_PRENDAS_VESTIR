@@ -16,7 +16,7 @@
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/temas/tema1/subt.svg', alt='')
-        h3.mb-0.ms-2 Dibujo técnico - Dibujo bidimensional de prendas de vestir
+        h3.mb-0.ms-2 Dibujo técnico - dibujo bidimensional de prendas de vestir
 
     .tarjeta--container.row.mb-5(data-aos="fade")
       .col-md.tarjeta.color-primario.p-5
@@ -30,7 +30,7 @@
           .col-5.col-md-6.col-lg-3
             img(src='@/assets/curso/temas/tema2/tarjeta1/imagen2.png')
         h4.text-center ¿Qué es el término bidimensional?
-        p.mb-0 Es toda aquella figura que está compuesta por dos dimensiones, ancho y largo. El cuadrado, el triángulo, el rectángulo, el círculo, no tienen profundidad, son formas que cuando se trazan no involucran ningún tipo de volumen en su diseño.
+        p.mb-0 Es toda aquella figura que está compuesta por dos dimensiones, ancho y largo. El cuadrado, el triángulo, el rectángulo, el círculo no tienen profundidad; son formas que, cuando se trazan, no involucran ningún tipo de volumen en su diseño.
 
     .subt.mb-5(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -67,13 +67,13 @@
           .col-7.col-md-4.col-lg-3.mb-3.mb-md-0
             img.mb-4(src='@/assets/curso/temas/tema2/tarjeta2/imagen2.png')
           .col-11.col-md-7.col-lg-7
-            p Son dibujos, esquemas, bosquejos, bocetos o pinturas que se hacen relacionados a la moda, pueden ser de modelos, ropa o accesorios, prácticamente cualquier objeto o situación relacionada a la industria.
-      .bg2.py-4(titulo="Dibujo Plano")
+            p Son dibujos, esquemas, bosquejos, bocetos o pinturas que se hacen relacionados con la moda; pueden ser de modelos, ropa o accesorios, prácticamente cualquier objeto o situación relacionada con la industria.
+      .bg2.py-4(titulo="Dibujo plano")
         .row.justify-content-center.align-items-center
           .col-7.col-md-4.col-lg-3.mb-3.mb-md-0
             img.mb-4(src='@/assets/curso/temas/tema2/tarjeta2/imagen3.png')
           .col-11.col-md-7.col-lg-7
-            p Representación detallada de una prenda, es decir, se deben identificar todas las características técnicas de la prenda, pespuntes, botones, costuras, pinzas, acabados. No tiene movimiento y se debe identificar delantero y posterior.
+            p Representación detallada de una prenda, es decir, se deben identificar todas las características técnicas de la prenda: pespuntes, botones, costuras, pinzas, acabados. No tiene movimiento y se debe identificar delantero y posterior.
 
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -117,12 +117,12 @@
     #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2 Categorización de prendas
 
-    p.mb-5 En la segmentación de productos se implementa el término tipología, el cual sirve para categorizar de manera básica, “lógica” por tipo los productos, lo que se busca es identificar características similares que componen el producto y así ir categorizando para facilitar todo el proceso, desde la parte creativa hasta la parte operativa. 
+    p.mb-5 En la segmentación de productos se implementa el término tipología, el cual sirve para categorizar de manera básica, “lógica”, por tipo los productos; lo que se busca es identificar características similares que componen el producto y así ir categorizando para facilitar todo el proceso, desde la parte creativa hasta la parte operativa.
 
     .subt.mb-5(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/temas/tema1/subt.svg', alt='')
-        h3.mb-0.ms-2 Categoría de prendas - Reconocimiento de tipologías
+        h3.mb-0.ms-2 Categoría de prendas - reconocimiento de tipologías
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-10
@@ -150,7 +150,7 @@
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/temas/tema1/subt.svg', alt='')
-        h3.mb-0.ms-2 Bitácora de formas - Glosario técnico
+        h3.mb-0.ms-2 Bitácora de formas - glosario técnico
 
     .row.justify-content-center.mb-5(data-aos="fade")  
       .col-md-6.col-xl.mb-4.mb-xl-0
@@ -172,7 +172,7 @@
           h4.text-center Talles
           p.text-center.mb-0 Talle alto, talle medio, talle bajo. Cuellos - puños - bolsillos de parche - bolsillos de ribete - pantalón - largos - bolsillos - talles – detalles.
 
-    p Revisa el contenido del video que puede resultar útil para complementar el aprendizaje acerca de la categorización de prendas
+    p A continuación, se presenta un video de apoyo para complementar el aprendizaje sobre la categorización de prendas.
 
     figure
       .video
@@ -184,7 +184,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido
       h2 2.3 Técnica de achurados y acabados
     
-    p.mb-4 En el siguiendo video, se presenta la realización del proceso de una manera clara y didáctica:
+    p.mb-4 En el siguiente video, se presenta la realización del proceso de una manera clara y didáctica:  
 
     figure
       .video
@@ -258,7 +258,7 @@
     #t_2_8.titulo-segundo.color-acento-contenido
       h2 2.8 Ficha técnica
     
-    p.mb-5 Son documentos en los cuales se describe de manera detallada la información técnica de un producto, por lo general se documenta la información operativa de cada uno de los procesos por los que pasa el producto, dichos documentos serán consultados de manera constante para validar que el proceso si corresponde al requerimiento. 
+    p.mb-5 Son documentos en los cuales se describe de manera detallada la información técnica de un producto; por lo general, se documenta la información operativa de cada uno de los procesos por los que pasa el producto. Dichos documentos serán consultados de manera constante para validar que el proceso sí corresponde al requerimiento.
 
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -293,7 +293,7 @@
         img(src='@/assets/curso/temas/tema1/subt.svg', alt='')
         h3.mb-0.ms-2 Requerimientos técnicos de cada tipo de ficha
     
-    p.mb-4 Los formatos de ficha técnica no tienen un esquema definido, por el contrario, son completamente ajustables al tipo de información que se considere necesaria para el tipo de producción a realizar.
+    p.mb-4 Los formatos de ficha técnica no tienen un esquema definido; por el contrario, son completamente ajustables al tipo de información que se considere necesaria para el tipo de producción a realizar. 
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row.justify-content-center.align-items-center(titulo="Especificaciones técnicas de diseño")
@@ -349,7 +349,7 @@
           img(src='@/assets/curso/temas/tema2/acordeon1/imagen3.png', alt='')
       .row.justify-content-center.align-items-center(titulo="Especificaciones técnicas de trazo y corte")
         .col-sm-12.col-md-5.col-lg-5.mb-4.mb-md-0
-          p Para realizar el corte de una prenda o producto es necesario identificar por talla, referencia, material, color y demás instrucciones de corte.
+          p Para realizar el corte de una prenda o producto, es necesario identificar por talla, referencia, material, color y demás instrucciones de corte.
           ul.lista-ul--color.vamarillo.fa-ul
             li.mb-0 
               i.lista-ul__vineta.mb-0
