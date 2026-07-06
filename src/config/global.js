@@ -328,25 +328,25 @@ export default {
       autores: [
         {
           nombre: 'Lizeth Maritza Rodríguez Beltrán',
-          cargo: 'Experta Temática',
+          cargo: 'Experta temática',
           centro:
             'Centro de Manufactura en Textil y Cuero - Regional Distrito Capital',
         },
         {
           nombre: 'Adriana Lozano Zapata',
-          cargo: 'Correctora de Estilo',
+          cargo: 'Correctora de estilo',
           centro:
             'Centro para La Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Natalia Andrea Bueno Pizarro',
-          cargo: 'Diseñadora Instruccional',
+          cargo: 'Diseñadora instruccional',
           centro:
             'Centro para La Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -366,7 +366,7 @@ export default {
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -376,7 +376,7 @@ export default {
       autores: [
         {
           nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles ',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles ',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
