@@ -425,7 +425,7 @@
     AcordionA.mb-4(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row.justify-content-center(titulo="Protocolario - Gala")
         .col-md-5.mb-4.mb-md-0
-          p Ligados a tradiciónes culturales y monárquicas, para eventos y celebraciones protocolarias en los altos rangos sociales.
+          p Ligados a tradiciones culturales y monárquicas, para eventos y celebraciones protocolarias en los altos rangos sociales.
           ul.lista-ul--color.vamarillo.fa-ul.mb-0
             li.mb-0 
               i.lista-ul__vineta.mb-0
@@ -454,7 +454,6 @@
             li.mb-0
               i.lista-ul__vineta.mb-0
               span.mb-0 Diferenciador.
-          p Se usa en múltiples actividades como ceremonias, mundo laboral y corporativo, eventos sociales.
         .col-md-6
           img(src='@/assets/curso/temas/tema1/acordeon2/imagen1.png', alt='')
       .row.justify-content-center(titulo="Multiocasión - Casual")
@@ -965,7 +964,7 @@
           .tarjeta.color-acento-contenido
             .p-4.align-content-center
               h4 ¿Quiénes?
-              p.mb-0 Un grupo de personas dedicadas a ser cazadores de tendencias, los llamados "coolhunter" detecta y predice las novedades que vendrán en los campos de la moda y el consumo.
+              p.mb-0 Un grupo de personas dedicadas a ser cazadores de tendencias, los llamados "#[i coolhunter]" detecta y predice las novedades que vendrán en los campos de la moda y el consumo.
 
     .subt.mb-5(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -1106,7 +1105,7 @@
 
     Separador
     #t_1_5.titulo-segundo.color-acento-contenido
-      h2 1.5 #[em Moodboard ] - #[b Cuadro metamórfico ]
+      h2 1.5 #[em Moodboard]: #[b Cuadro metamórfico ]
 
     p.mb-4.mb-lg-5 Los moodboards son tableros creativos que permiten visualizar y conceptualizar ideas para el desarrollo de productos o servicios; consisten en recolectar imágenes que muestran lo que se quiere expresar. Esta es una forma implementada en las áreas de diseño para dar a conocer las ideas de una manera mucho más dinámica.
 

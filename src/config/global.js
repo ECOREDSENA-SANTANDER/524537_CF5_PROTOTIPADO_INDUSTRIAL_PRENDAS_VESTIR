@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Características de diseño y fundamentación textil',
     Description:
-      'En este componente formativo aprenderá a identificar las características, partes, composición, categorización y detalles en el análisis y comprensión de prendas de vestir. Dentro del proceso se hace una contextualización del lenguaje técnico empleado en el diseño de modas, con el fin de apoyar una parte del proceso en la construcción de prendas de vestir.',
+      'En este componente formativo aprenderá a identificar las características, partes, composición, categorización y detalles en el análisis y confección de prendas de vestir. Dentro del proceso se hace una contextualización del lenguaje técnico empleado en el diseño de modas, con el fin de apoyar una parte del proceso en la construcción de prendas de vestir.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -275,39 +275,47 @@ export default {
   referencias: [
     {
       referencia:
+        'Marín Castellanos, O., Fumeque, A., y Ramírez, D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA.',
+    },
+
+    {
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (s. f.). Canal de YouTube. YouTube.',
+    },
+
+    {
+      referencia:
+        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos.',
+    },
+
+    {
+      referencia:
+        'Lafuente, M., Navarro, J., y Navarro, J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA.',
+    },
+
+    {
+      referencia:
+        'Laver, J., Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+    },
+
+    {
+      referencia:
         'Marín Blackman, C. (2012). 100 años de moda. Sistema de Bibliotecas.',
     },
+
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Navarro, J., y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA.',
     },
+
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En harpersbazaar.mx',
+        'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. Sistema de Bibliotecas SENA.',
     },
+
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA:',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (s. f.). Canal de YouTube.',
+        'Szkutnicka, B., Cuenca, C., y Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
     },
   ],
   creditos: [
@@ -370,7 +378,7 @@ export default {
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animadora y productora multimedia',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

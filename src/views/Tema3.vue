@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Fundamentación Textil
+      h1 Fundamentación textil
 
 
     #t_3_1.titulo-segundo.color-acento-contenido
@@ -224,7 +224,7 @@
         .bg4.p-3.mb-4
           p.mb-0 PET reciclado, algodón orgánico, cuero vegetal, nylon regenerado, algas marinas.
 
-    p.mb-4 En el siguiendo video, se presenta la realización del proceso de una manera clara la clasificación de las fibras textiles.
+    p.mb-4 En el siguiente video, se presenta la realización del proceso de una manera clara la clasificación de las fibras textiles.
 
     figure
       .video
@@ -450,8 +450,7 @@
         p.mb-0 #[b ¿Qué es un hilo? ]
           br
           br
-          span.mb-0 Producto de longitud sustancial y corte seccional, relativamente pequeño, consistente de fibras o filamentos, con o sin torsión, es decir, un hilo es una hebra larga y delgada, elaborada con fibras de material textil. Un hilo está compuesto por 1,2 o más cabos torcidos entre sí.
-
+          span.mb-0 Producto de longitud sustancial y corte seccional, relativamente pequeño, consistente de fibras o filamentos, con o sin torsión, es decir, un hilo es una hebra larga y delgada, elaborada con fibras de material textil. Un hilo está compuesto por 1, 2 o más cabos torcidos entre sí.
 
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -878,7 +877,7 @@
           .col-lg-8.p-5.bg2
             .row.justify-content-center.align-items-center
               .col-sm-12.col-md-12.col-lg-10
-                p Se organizan en función de su comportamiento, está relacionado con el peso del material:
+                p Se organizan en función de su comportamiento, que está relacionado con el peso del material:
                 .row
                   .col-sm-12.col-md-4.col-lg-3
                     ul.lista-ul--color.color-primario.l-circle.fa-ul.mb-0
@@ -1043,7 +1042,7 @@
         .col-md-12.mb-4.mb-md-0.ps-5
           p Las entretelas cosibles se unen a la tela o a las costuras de una prenda, ya sea a mano o a máquina. Son especialmente útiles para textiles con textura, como el terciopelo, así como para aquellos sensibles al calor, incluyendo textiles metalizados o plastificados que no toleran la presión o el calor directo de la plancha. 
 
-    p En el siguiendo video, se presenta más información sobre caracterización de los textiles.
+    p En el siguiente video, se presenta más información sobre caracterización de los textiles.
 
     figure
       .video
@@ -1200,7 +1199,7 @@
         .p-3.gris
           p.mb-0 Resistencia a pliegues y arrugas, planchado durable, repelente al agua / impermeabilización, control de encogimiento, resistencia a la suciedad, antiestática, antibacterial, resistente a polillas, ignición retardada, resistencia al moho.
 
-    p Revisa el video que pueden resultar útil para conocer más sobre los acabados.
+    p En el siguiente video, se presenta más información sobre caracterización de los textiles.
 
     figure
       .video
