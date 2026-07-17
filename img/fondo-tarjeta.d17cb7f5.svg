@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="1211.376" viewBox="0 0 1240 1211.376">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d1bcff" stop-opacity="0.761"/>
+      <stop offset="1" stop-color="#dbe5f3" stop-opacity="0.361"/>
+    </linearGradient>
+  </defs>
+  <path id="_1524_BACKGROUNDb21_-_copia" data-name="1524_BACKGROUNDb21 - copia" d="M0,0H1240V1211.376H0Z" fill="url(#linear-gradient)"/>
+</svg>
