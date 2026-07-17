@@ -170,7 +170,7 @@
           .tarjeta-numerada__numero
             .h2 3
           h4.text-center Talles
-          p.text-center.mb-0 Talle alto, talle medio, talle bajo. Cuellos - puños - bolsillos de parche - bolsillos de ribete - pantalón - largos - bolsillos - talles – detalles.
+          p.text-center.mb-0 Talle alto, talle medio, talle bajo, cuellos, puños, bolsillos de parche,  bolsillos de ribete,  pantalón,  largos,  bolsillos,  talles y detalles.
 
     p A continuación, se presenta un video de apoyo para complementar el aprendizaje sobre la categorización de prendas.
 

@@ -1199,7 +1199,7 @@
         .p-3.gris
           p.mb-0 Resistencia a pliegues y arrugas, planchado durable, repelente al agua / impermeabilización, control de encogimiento, resistencia a la suciedad, antiestática, antibacterial, resistente a polillas, ignición retardada, resistencia al moho.
 
-    p En el siguiente video, se presenta más información sobre caracterización de los textiles.
+    p Se recomienda revisar el video, el cual puede resultar útil para ampliar los conocimientos sobre los acabados textiles.
 
     figure
       .video
